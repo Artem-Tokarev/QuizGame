@@ -6,6 +6,7 @@ build/*
 /Logs
 **/obj/
 **/Temp/
+/UserSettings
 .vsconfig
 
 *.suo
